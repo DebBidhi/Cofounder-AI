@@ -1,0 +1,7 @@
+numpy==1.25.2
+sentence-transformers==2.7.0
+tkinter
+python-dotenv
+groq
+PyPDF2
+pinecone-client
